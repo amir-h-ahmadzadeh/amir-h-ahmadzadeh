@@ -1,8 +1,8 @@
 - 👋 Hi, I’m amirhossein haji ahmadzadeh
-- 👀 I’m interested in A.I and brain imitation.
-- 🌱 I’m currently learning neural networks on coursera.
-- 💞️ I’m looking to collaborate on any python project.
-- 📫 You can reach me via email: a.h.a9372@gmail.com
+- 👀 I’m interested in data analysis technologies.
+- 🌱 I’m currently learning Azure cloud services.
+- 💞️ I’m looking to collaborate on any data analysis project.
+- 📫 You can reach me via email: amirhossein.h.ahmadzadeh@gmail.com
 
 <!---
 amir-h-ahmadzadeh/amir-h-ahmadzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

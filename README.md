@@ -1,6 +1,5 @@
 - 👋 Hi, I’m amirhossein haji ahmadzadeh
 - 👀 I’m interested in data analysis technologies.
-- 🌱 I’m currently learning Azure cloud services.
 - 💞️ I’m looking to collaborate on any data analysis project.
 - 📫 You can reach me via email: amirhossein.h.ahmadzadeh@gmail.com
 
